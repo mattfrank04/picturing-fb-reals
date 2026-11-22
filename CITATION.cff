@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: >-
+  If you use this software, please cite the paper (preferred citation
+  below) and, if relevant, this software.
+title: >-
+  picturing-fb-reals: code for "A Fatou-Bieberbach Definition
+  of the Reals That Does Not Come from Exponential Quotients"
+type: software
+authors:
+  - family-names: Frank
+    given-names: Matthew
+    email: mfrank@uchicago.edu
+    orcid: "https://orcid.org/0000-0003-1720-0597"
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/mattfrank04/picturing-fb-reals"
+keywords:
+  - Fatou-Bieberbach domain
+  - Henon map
+  - quasiminimality
+  - entire functions
+preferred-citation:
+  type: article
+  title: >-
+    A Fatou-Bieberbach Definition of the Reals That Does Not Come
+    from Exponential Quotients
+  authors:
+    - family-names: Frank
+      given-names: Matthew
+      email: mfrank@uchicago.edu
+      orcid: "https://orcid.org/0000-0003-1720-0597"
+  year: 2026

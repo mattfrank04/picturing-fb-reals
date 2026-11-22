@@ -1,0 +1,7 @@
+# caches, recomputed when missing (see common.py)
+cache/
+# generated figures
+figures/
+__pycache__/
+*.pyc
+.pytest_cache/

@@ -1,0 +1,9 @@
+# Versions used to produce the figures and numbers in the paper
+# (Python 3.13).  Other recent versions should work; figures may then
+# differ in rendering details.
+numpy==2.5.3
+scipy==1.18.1
+matplotlib==3.11.2
+mpmath==1.4.1
+# for the tests
+pytest==9.1.1

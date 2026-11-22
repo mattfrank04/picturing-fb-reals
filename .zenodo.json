@@ -1,0 +1,20 @@
+{
+  "title": "picturing-fb-reals: code for \"A Fatou-Bieberbach Definition of the Reals That Does Not Come from Exponential Quotients\"",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "description": "Code to generate the figures and check the numerical claims of the paper \"A Fatou-Bieberbach Definition of the Reals That Does Not Come from Exponential Quotients\" by Matthew Frank, about the entire function f with f(x,y) = f(4x,4y)/4 + f(2y,2x)^2 and the set S = {f(x,y) : f(2y,2x) = 0}.",
+  "creators": [
+    {
+      "name": "Frank, Matthew",
+      "orcid": "0000-0003-1720-0597"
+    }
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "keywords": [
+    "Fatou-Bieberbach domain",
+    "Henon map",
+    "quasiminimality",
+    "entire functions"
+  ]
+}
